@@ -1,0 +1,29 @@
+{
+  "name": "dw-appbar",
+  "authors": [
+    "daniel-llach <daniel.llach@gmail.com>"
+  ],
+  "description": "A jquery component to realize app bar",
+  "main": [
+    "components/dw-appbar.js",
+    "components/dw-appbar.css"
+  ],
+  "moduleType": "es6",
+  "keywords": [
+    "bar",
+    "menu",
+    "app"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "underscore": "^1.8.3"
+  }
+}
